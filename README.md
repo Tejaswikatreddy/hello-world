@@ -1,2 +1,2 @@
 # hello-world
-sample project
+hello world we are from bangalore
